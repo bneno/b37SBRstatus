@@ -13,7 +13,8 @@ h1{
 }
 
 body{
+    width: 100%;
     font-family: Tahoma;
-    background-image: url("images\gyro.jpg");
+    background-image: url("gyro.jpg");
     background-size: 16vh;
 }
