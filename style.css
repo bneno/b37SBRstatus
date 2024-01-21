@@ -1,0 +1,19 @@
+h1{
+    text-align:  center;
+}
+
+#iddk{
+    font-weight: bold;
+    margin-top: 30vh;
+    margin-bottom: 30vh;
+    height: 10vh;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    background-color: bisque;
+}
+
+body{
+    font-family: Tahoma;
+    background-image: url(gyro.jpg);
+    background-size: 16vh;
+}
